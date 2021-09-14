@@ -1,0 +1,15 @@
+.placeholder {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+
+  &__big-text {
+    font-size: 3rem;
+    color: rgb(201, 36, 36);
+  }
+
+  &__small-text {
+    color: #666;
+  }
+}
