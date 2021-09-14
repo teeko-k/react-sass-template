@@ -1,3 +1,15 @@
 # React / SASS / Webpack template
 
-Nisi in culpa velit sit nulla duis fugiat commodo excepteur sunt. Excepteur ut proident incididunt sunt. Culpa ea nulla amet occaecat dolor eiusmod adipisicing aliqua nulla duis ea excepteur aliquip.
+A basic application template/boilerplate that utilises [Webpack](https://webpack.js.org/), [React](https://reactjs.org) and [Sass](https://sass-lang.com/).
+
+## Getting started
+
+It's so easy to get started, just clone onto your local machine and access the cloned directory
+
+```bash
+mkdir new-proj
+git clone https://github.com/teeko-k/react-sass-template new-proj
+cd new-proj
+```
+
+Happy Hacking!
